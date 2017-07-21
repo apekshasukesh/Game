@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TK2DROOT\tk2d\Editor\tk2dEditorUtility.cs">
+    <Files>
+      <File FileName="Assets\TK2DROOT\tk2dUI\Editor\Controls\tk2dUIScrollableAreaEditor.cs" Line="61" Column="10" />
+      <File FileName="Assets\TK2DROOT\tk2dTileMap\Editor\tk2dTileMapEditor.cs" Line="21" Column="3" />
+      <File FileName="Assets\TK2DROOT\tk2d\Editor\tk2dEditorUtility.cs" Line="22" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
